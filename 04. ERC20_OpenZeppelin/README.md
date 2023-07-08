@@ -8,6 +8,6 @@ The "ERC20_OpenZeppelin" project demonstrates the usage of the OpenZeppelin libr
 
 3. `ERC20WithMinerReward`: This contract extends the `ERC20` contract from OpenZeppelin and represents a token called "Reward" (RWD) with a miner reward feature. It allows the contract owner to mint 1000 tokens and reward them to the miner of the current block.
 
-You can find the complete code for the "ERC20_OpenZeppelin" project [here](https://github.com/GideonBature/Smart-Contract-Projects/blob/main/ERC20_OpenZeppelin.sol).
+You can find the complete code for the "ERC20_OpenZeppelin" project [here](https://github.com/GideonBature/web3Learn-smart_contract_programming/blob/main/04.%20ERC20_OpenZeppelin/myERC20_OpenZeppelin.sol).
 
 
